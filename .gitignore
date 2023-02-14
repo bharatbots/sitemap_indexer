@@ -1,0 +1,6 @@
+worker_oath.json
+indexed_urls.txt
+
+# cache
+.vscode
+__pycache__/

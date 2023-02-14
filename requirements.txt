@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.2
+google_api_python_client==2.77.0
+httplib2==0.20.4
+protobuf==4.21.12
+requests==2.27.1
